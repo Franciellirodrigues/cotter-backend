@@ -95,7 +95,7 @@ The following tools were used in the construction of the project:
 - [Node](https://github.com/node)
 - [Multer](https://github.com/expressjs/multer)
 - [Prisma](https://github.com/prisma)
-- [Prisma](https://github.com/jwt)
+- [JWT](https://github.com/jwt)
 
 ---
 
